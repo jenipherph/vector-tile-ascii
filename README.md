@@ -29,3 +29,7 @@ node index.js 10561.vector.pbf
 Check it against the reference image:
 
 ![Map tile](examples/10561.png)
+
+## Public domain
+
+This is free software released into the public domain.
